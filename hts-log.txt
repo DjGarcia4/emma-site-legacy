@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 02 Apr 2025 20:27:33 at https://centrodecancerhn.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://centrodecancerhn.org/ -O1 "C:\Users\Jared Garcia\Desktop\emma-site\emma-site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:29:44	Warning: 	Moved Permanently for https://centrodecancerhn.org/uncategorized/luchadora-del-cancer-admire-mis-senos-en-el-espejo-por-ultima-vez-y-llore/
+20:29:44	Warning: 	File has moved from https://centrodecancerhn.org/uncategorized/luchadora-del-cancer-admire-mis-senos-en-el-espejo-por-ultima-vez-y-llore/ to https://centrodecancerhn.org/testimonios/luchadora-del-cancer-admire-mis-senos-en-el-espejo-por-ultima-vez-y-llore/
+20:30:02	Warning: 	Moved Permanently for https://centrodecancerhn.org/?p=1337
+20:30:02	Warning: 	File has moved from https://centrodecancerhn.org/?p=1337 to https://centrodecancerhn.org/relevo-por-la-vida/
+20:30:03	Warning: 	Moved Permanently for https://centrodecancerhn.org/?p=14
+20:30:03	Warning: 	File has moved from https://centrodecancerhn.org/?p=14 to https://centrodecancerhn.org/hazte-voluntario/
+20:30:03	Warning: 	Moved Permanently for https://centrodecancerhn.org/?p=1327
+20:30:03	Warning: 	File has moved from https://centrodecancerhn.org/?p=1327 to https://centrodecancerhn.org/donar-en-bancos/
+20:30:03	Warning: 	Moved Permanently for https://centrodecancerhn.org/?p=1392
+20:30:03	Warning: 	File has moved from https://centrodecancerhn.org/?p=1392 to https://centrodecancerhn.org/empresas-que-ayudaron/
+20:30:03	Warning: 	Moved Permanently for https://centrodecancerhn.org/?p=1821
+20:30:03	Warning: 	File has moved from https://centrodecancerhn.org/?p=1821 to https://centrodecancerhn.org/junta-directiva-ahlcancer/
+20:30:03	Warning: 	Moved Permanently for https://centrodecancerhn.org/?p=11
+20:30:03	Warning: 	File has moved from https://centrodecancerhn.org/?p=11 to https://centrodecancerhn.org/acerca-de/
+20:30:03	Warning: 	Moved Permanently for https://centrodecancerhn.org/?p=1404
+20:30:03	Warning: 	File has moved from https://centrodecancerhn.org/?p=1404 to https://centrodecancerhn.org/historia/
+20:30:03	Warning: 	Moved Permanently for https://centrodecancerhn.org/?p=1827
+20:30:03	Warning: 	File has moved from https://centrodecancerhn.org/?p=1827 to https://centrodecancerhn.org/voluntarios/
+20:30:03	Warning: 	Moved Permanently for https://centrodecancerhn.org/?p=569
+20:30:03	Warning: 	File has moved from https://centrodecancerhn.org/?p=569 to https://centrodecancerhn.org/contactenos/
+20:30:03	Warning: 	Moved Permanently for https://centrodecancerhn.org/?p=1598
+20:30:03	Warning: 	File has moved from https://centrodecancerhn.org/?p=1598 to https://centrodecancerhn.org/testimonios/luchadora-del-cancer-admire-mis-senos-en-el-espejo-por-ultima-vez-y-llore/
+20:30:03	Warning: 	Moved Permanently for https://centrodecancerhn.org/?p=1577
+20:30:03	Warning: 	File has moved from https://centrodecancerhn.org/?p=1577 to https://centrodecancerhn.org/educacion-y-prevencion/signos-y-sintomas-del-cancer/
+20:30:03	Warning: 	Moved Permanently for https://centrodecancerhn.org/?p=1383
+20:30:03	Warning: 	File has moved from https://centrodecancerhn.org/?p=1383 to https://centrodecancerhn.org/empresa-que-ayudaron/porque-juntos-somos-mas-mazola-apoya-la-lucha-contra-el-cancer-de-mama/
+20:30:03	Warning: 	Moved Permanently for https://centrodecancerhn.org/?p=239
+20:30:03	Warning: 	File has moved from https://centrodecancerhn.org/?p=239 to https://centrodecancerhn.org/educacion-y-prevencion/que-es-el-cancer-de-mama/
+20:30:03	Warning: 	Moved Permanently for https://centrodecancerhn.org/?p=241
+20:30:03	Warning: 	File has moved from https://centrodecancerhn.org/?p=241 to https://centrodecancerhn.org/medicina/como-prevenir-el-cancer-de-mama/
+20:30:03	Warning: 	File not parsed, looks like binary: https://centrodecancerhn.org/wp-content/plugins/revslider/public/assets/css/openhand.cur
+20:30:03	Warning: 	File not parsed, looks like binary: https://centrodecancerhn.org/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+20:30:03	Error: 	"Not Found" (404) at link https://centrodecancerhn.org/wp-content/uploads/2019/04/DisenÌo-sin-tiÌtulo.png (from https://centrodecancerhn.org/wp-content/uploads/elementor/css/post-14.css?ver=1674076376)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 30 seconds : 387 links scanned, 370 files written (54845801 bytes overall) [51479898 bytes received at 343199 bytes/sec], 4565919 bytes transferred using HTTP compression in 127 files, ratio 21%, 35.2 requests per connection
+(1 errors, 32 warnings, 0 messages)
